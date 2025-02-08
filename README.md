@@ -1,2 +1,1 @@
-# AbhinavPandey.devtern
-Data Science Internship tasks.
+# Data Science Internship tasks.
